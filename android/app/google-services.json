@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203638264182",
+    "firebase_url": "https://push-notif-e577a.firebaseio.com",
+    "project_id": "push-notif-e577a",
+    "storage_bucket": "push-notif-e577a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203638264182:android:3c8d52ed1f39c4f8",
+        "android_client_info": {
+          "package_name": "com.test.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203638264182-emmffkai3gjbj5m829mfef2qm0vepl12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBonis2deGCr6s6WomM7dbU3IbwdUexYEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203638264182-emmffkai3gjbj5m829mfef2qm0vepl12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

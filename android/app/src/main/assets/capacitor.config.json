@@ -1,0 +1,7 @@
+{
+  "appId": "com.test.test",
+  "appName": "CapApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
